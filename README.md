@@ -1,6 +1,6 @@
 ### Hi, I'm Leevi! 👋
 
-Student at Turku University of Applied Sciences. I am studying Information and Communications Technology.    
+I am studying Information and Communications Technology at Turku University of Applied Sciences.    
 Developing games and other projects during free time.   
 
 
