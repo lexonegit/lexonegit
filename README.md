@@ -1,5 +1,3 @@
-### Hi, I'm Leevi! 👋
-
 Student at Turku University of Applied Sciences. Information and Communications Technology.    
 
 
